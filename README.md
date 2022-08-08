@@ -1,2 +1,2 @@
-# java-the-cat
-final project for webside design and client side scripting
+# Java-the-cat
+Final project for module: Web Design and Client Side Scripting
